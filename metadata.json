@@ -1,0 +1,6 @@
+{
+  "name": "Jão Cooks - KDS Painel da Cozinha",
+  "description": "Sistema de painel de gerenciamento da cozinha (KDS) para a equipe da Jão Cooks com integração Supabase e simulador de autoatendimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
